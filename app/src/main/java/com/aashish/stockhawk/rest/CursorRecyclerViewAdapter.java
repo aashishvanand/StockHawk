@@ -1,4 +1,4 @@
-package com.aashish.android.stockhawk.rest;
+package com.aashish.stockhawk.rest;
 
 import android.content.Context;
 import android.database.Cursor;
