@@ -1,8 +1,5 @@
 package com.aashish.stockhawk.service;
 
-/**
- * Created by aashi on 6/19/2016.
- */
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
@@ -24,6 +21,10 @@ import org.json.JSONObject;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.util.ArrayList;
+
+/**
+ * Created by aashi on 6/19/2016.
+ */
 
 public class HistoricalData {
 

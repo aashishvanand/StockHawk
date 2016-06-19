@@ -1,14 +1,15 @@
 package com.aashish.stockhawk.ui;
 
-/**
- * Created by aashi on 6/19/2016.
- */
 import android.content.Context;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.View;
+
+/**
+ * Created by aashi on 6/19/2016.
+ */
 
 public class ScrollAwareFABBehavior extends FloatingActionButton.Behavior {
 

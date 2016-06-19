@@ -1,10 +1,11 @@
 package com.aashish.stockhawk.service;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 /**
  * Created by aashi on 6/19/2016.
  */
-import android.os.Parcel;
-import android.os.Parcelable;
 
 public class SymbolParcelable implements Parcelable{
 

@@ -1,8 +1,5 @@
 package com.aashish.stockhawk.ui;
 
-/**
- * Created by aashi on 6/19/2016.
- */
 import android.graphics.Color;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -28,6 +25,10 @@ import java.util.ArrayList;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
+
+/**
+ * Created by aashi on 6/19/2016.
+ */
 
 
 public class StockDetails extends AppCompatActivity implements HistoricalData.HistoricalDataCallback {

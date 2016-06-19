@@ -27,7 +27,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.aashish.stockhawk.R;
@@ -47,6 +46,10 @@ import com.aashish.stockhawk.widget.StockWidgetProvider;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+
+/**
+ * Created by aashi on 6/19/2016.
+ */
 
 public class MyStocksActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor> {
 
@@ -107,9 +110,7 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
       }
     }
 
-
     recyclerView.setLayoutManager(new LinearLayoutManager(this));
-
 
     //Initializing the loader from here.
     getLoaderManager().initLoader(CURSOR_LOADER_ID, null, this);
@@ -163,10 +164,7 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
       // are updated.
       GcmNetworkManager.getInstance(this).schedule(periodicTask);
     }
-
-
   }
-
 
   /**
    * Method to show error message when the data is not available.
@@ -230,7 +228,6 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
       marketcaptalizationColoumIndex = mCursor.getColumnIndex(QuoteColumns.MARKETCAPITALIZATION);
        }
   }
-
 
   @Override
   public void onResume() {
@@ -302,10 +299,8 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
      * is a good idea.
      * Along with this, this method is called whenever a new item is added to the database.
      */
-
     updateStocksWidget();
   }
-
 
   /**
    * If any widget is added on the homescreen, this helper method helps in updating it's content from here.
@@ -322,13 +317,11 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
     }
   }
 
-
   @Override
   public void onLoaderReset(Loader<Cursor> loader) {
     mCursorAdapter.swapCursor(null);
     emptyViewBehavior();
   }
-
 
   @OnClick(R.id.fab_activity_my_stocks)
   public void fabClicked() {
@@ -356,7 +349,6 @@ public class MyStocksActivity extends AppCompatActivity implements LoaderManager
       noNetworkSnack();
     }
   }
-
 
   @Override
   protected void onDestroy() {

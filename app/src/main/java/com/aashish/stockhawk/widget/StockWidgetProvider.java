@@ -1,27 +1,19 @@
 package com.aashish.stockhawk.widget;
 
-/**
- * Created by aashi on 6/19/2016.
- */
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v4.app.TaskStackBuilder;
-import android.util.Log;
 import android.widget.RemoteViews;
-import android.widget.Toast;
-
 import com.aashish.stockhawk.R;
-import com.aashish.stockhawk.service.HistoricalData;
-import com.aashish.stockhawk.ui.MyStocksActivity;
 import com.aashish.stockhawk.ui.StockDetails;
 
 /**
- * Created by hemal on 25/5/16.
+ * Created by aashi on 6/19/2016.
  */
+
 public class StockWidgetProvider extends AppWidgetProvider {
 
 

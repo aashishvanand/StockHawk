@@ -1,8 +1,5 @@
 package com.aashish.stockhawk.widget;
 
-/**
- * Created by aashi on 6/19/2016.
- */
 import android.appwidget.AppWidgetManager;
 import android.content.Context;
 import android.content.Intent;
@@ -15,6 +12,9 @@ import com.aashish.stockhawk.R;
 import com.aashish.stockhawk.data.QuoteColumns;
 import com.aashish.stockhawk.data.QuoteProvider;
 
+/**
+ * Created by aashi on 6/19/2016.
+ */
 
 public class StockWidgetService extends RemoteViewsService {
 
