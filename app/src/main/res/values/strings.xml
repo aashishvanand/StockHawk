@@ -2,6 +2,7 @@
   <string name="app_name" translatable="false">StockHawk</string>
   <string name="action_settings" translatable="false">Settings</string>
   <string name="action_change_units" translatable="true">Change Units</string>
+  <string name="action_change_units_description" translatable="true">Change from percentage increase or decrease to actual increase or decrease</string>
   <string name="symbol_search" translatable="true">Symbol Search</string>
   <string name="content_test" translatable="true">Search for a Stock Symbol</string>
   <string name="input_hint" translatable="false">MSFT / BAC / GOOG</string>
