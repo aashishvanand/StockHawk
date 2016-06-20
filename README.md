@@ -1,5 +1,5 @@
 # StockHawk
-Udacity Android Nanodegree - StockHawk <br>
+Udacity Android Nanodegree - StockHawk - Meets Specifications <br>
 This is an Android app to explore market share, analyze graphs about stocks. Several Fields such as Stock Symbol, Stock Name, Stock Percentage Change, Stock Bid Price,Stock Earnings Share, Market Capitalization, Stock Currency, Stock Last Trading Date, Day's High, Day's Low, Year's High, Year's Low.
 I have tried to implement the whole project on the material guidelines from google by using Material Colours, Material Cards.
 
