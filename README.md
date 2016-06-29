@@ -4,13 +4,14 @@ This is an Android app to explore market share, analyze graphs about stocks. Sev
 I have tried to implement the whole project on the material guidelines from google by using Material Colours, Material Cards.
 
 #Screenshots
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230653.png" height=480 width =270/>
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230716.png" height=480 width =270/>
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230743.png" height=480 width =270/>
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230805.png" height=480 width =270/>
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230825.png" height=480 width =270/>
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230841.png" height=480 width =270/>
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160619-230854.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-223756.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-232600.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-234643.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-234651.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-234703.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-234719.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-234729.png	" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-235209.png	" height=480 width =270/>
 
 ## Features
 <ul style="list-style-type:disc">
