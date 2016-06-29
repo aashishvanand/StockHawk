@@ -166,7 +166,7 @@ public class StockDetails extends AppCompatActivity implements HistoricalData.Hi
         lineChart.setDescriptionColor(Color.WHITE);
         lineChart.setDescription("Last 12 Months Stock Comparison");
 
-        String name="Stock";
+        String name= getResources().getString(R.string.stock);
         LineDataSet dataSet = new LineDataSet(entries, name);
         LineData lineData = new LineData(xvalues, dataSet);
 

@@ -23,6 +23,7 @@
   <string name="historicalDataStatus" translatable="false">historical_data_status</string>
   <string name="no_data_show" translatable="true">Can\'t show you data over time!</string>
   <string name="retry" translatable="true">RETRY</string>
+  <string name="stock" translatable="true">Stock</string>
   <string name="empty_view_text" translatable="true">Stocks Data not available!</string>
   <string name="data_error_json" translatable="true">Looks like it\'s our fault!</string>
   <string name="data_no_internet" translatable="true">Internet Connection is required!</string>

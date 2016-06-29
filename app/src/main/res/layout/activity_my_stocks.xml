@@ -55,6 +55,7 @@
       android:contentDescription="@string/fab_button_content_description"
       android:clickable="true"
       android:src="@drawable/ic_add_white_24dp"
+      app:backgroundTint="@color/material_blue_700"
       app:fabSize="normal"
       app:layout_behavior="com.aashish.stockhawk.ui.ScrollAwareFABBehavior" />
 
