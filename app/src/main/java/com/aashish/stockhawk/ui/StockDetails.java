@@ -152,12 +152,12 @@ public class StockDetails extends AppCompatActivity implements HistoricalData.Hi
         xAxis.setLabelsToSkip(5);
         xAxis.setPosition(XAxis.XAxisPosition.BOTTOM);
         xAxis.setTextSize(12f);
-        xAxis.setTextColor(Color.rgb(2,136,209));
+        xAxis.setTextColor(Color.rgb(182,182,182));
 
         YAxis left = lineChart.getAxisLeft();
         left.setEnabled(true);
         left.setLabelCount(10, true);
-        left.setTextColor(Color.rgb(2,136,209));
+        left.setTextColor(Color.rgb(182,182,182));
 
         lineChart.getAxisRight().setEnabled(false);
         lineChart.getLegend().setTextSize(16f);
@@ -166,7 +166,8 @@ public class StockDetails extends AppCompatActivity implements HistoricalData.Hi
         lineChart.setDescriptionColor(Color.WHITE);
         lineChart.setDescription("Last 12 Months Stock Comparison");
 
-        LineDataSet dataSet = new LineDataSet(entries, symbol);
+        String name="Stock";
+        LineDataSet dataSet = new LineDataSet(entries, name);
         LineData lineData = new LineData(xvalues, dataSet);
 
         lineChart.animateX(2500);
