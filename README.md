@@ -35,6 +35,6 @@ Schematic - https://github.com/SimonVT/schematic
 
 ##Get the app in Playstore
 <a href="https://play.google.com/apps/testing/com.aashish.stockhawk">
-<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/google-play-badge.png" height=100 width =200/>
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/google-play-badge.png"/>
 </a>
 
