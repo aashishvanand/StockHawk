@@ -33,3 +33,8 @@ Butterknife - https://github.com/JakeWharton/butterknife <br>
 OkHTTP - https://github.com/square/okhttp <br>
 Schematic - https://github.com/SimonVT/schematic
 
+##Get the app in Playstore
+<a href="https://play.google.com/apps/testing/com.aashish.stockhawk">
+<img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/google-play-badge.png"/>
+</a>
+
