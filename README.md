@@ -2,7 +2,6 @@
 Udacity Android Nanodegree - StockHawk - Meets Specifications <br>
 StockHawk helps users to explore market share, analyze graphs about stocks. Several Fields such as Stock Symbol, Stock Name, Stock Percentage Change, Stock Bid Price,Stock Earnings per Share, Market Capitalization, Stock Currency, Stock Last Trading Date, Day's High, Day's Low, Year's High, Year's Low of Stocks. is being displayed.  It has a transparent widget which makes it look stylish. It is accomplished for Udacity Android NanoDegree Project - 3
 
-
 #Screenshots
 <img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-223756.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/Screenshot/Screenshot_20160629-232600.png" height=480 width =270/>
