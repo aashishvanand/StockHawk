@@ -34,7 +34,7 @@ Schematic - https://github.com/SimonVT/schematic<br>
 Thanks to Yahoo Finance for providing the data.
 
 ##App is now available on Google Play
-<a href="https://play.google.com/apps/testing/com.aashish.stockhawk">
+<a href="https://play.google.com/store/apps/details?id=com.aashish.stockhawk">
 <img src="https://raw.githubusercontent.com/aashishvanand/StockHawk/master/google-play-badge.png"/>
 </a>
 
